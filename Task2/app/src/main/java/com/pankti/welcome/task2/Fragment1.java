@@ -23,7 +23,7 @@ public class Fragment1 extends Fragment {
 
 
         View view=inflater.inflate(R.layout.first,container,false);
-
+//ffff
         return view;
     }
 }
